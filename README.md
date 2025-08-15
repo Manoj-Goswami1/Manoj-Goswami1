@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🐍 Manoj Goswami
+# Manoj Goswami
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=700&height=100&lines=Python+Developer;Panda;Matplot+Enthusiast;Backend+Architect;" alt="Dynamic Typing" />
 
